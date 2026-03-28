@@ -198,7 +198,7 @@ Detected anomalies represent **suspicious patterns**, not confirmed attacks.
 
 **Niher Halder**
 ChatGPT Plus Workspace
-Email: [halderniher@gmail.com](mailto:halderniher@gmail.com)
+Email: [niher.tech@gmail.com](mailto:niher.tech@gmail.com)
 
 ---
 
