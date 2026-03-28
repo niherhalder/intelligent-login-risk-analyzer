@@ -59,7 +59,7 @@ with left_col:
         "Login Status",
         ["success", "failed"]
     )
-     analyze_clicked = st.button("Analyze Login")
+    analyze_clicked = st.button("Analyze Login")
 
 if analyze_clicked:
     try:
