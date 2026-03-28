@@ -14,3 +14,4 @@ Thumbs.db
 
 # Outputs (optional if large)
 outputs/*.csv
+!outputs/processed_features.csv
